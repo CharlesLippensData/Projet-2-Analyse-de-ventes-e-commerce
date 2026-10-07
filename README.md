@@ -1,4 +1,4 @@
-# Projet 2 — Faites une analyse de ventes pour un e-commerce
+# Projet 2 : Faites une analyse de ventes pour un e-commerce
 
 ![Statut](https://img.shields.io/badge/Statut-Valid%C3%A9-2ea44f)
 ![Charge](https://img.shields.io/badge/Charge-40h-blue)
